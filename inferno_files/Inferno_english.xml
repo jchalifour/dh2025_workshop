@@ -134,10 +134,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jchalifour/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145740846",
+	"id": "https://raw.githubusercontent.com/jchalifour/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715150004710",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-07-15T13:57:40.846Z",
-	"dcterms:modified": "2025-07-15T13:57:40.846Z",
+	"dcterms:created": "2025-07-15T14:00:04.710Z",
+	"dcterms:modified": "2025-07-15T14:00:04.710Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jchalifour",
 		"@type": [
@@ -148,7 +148,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jchalifour/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145740846#Target",
+		"@id": "https://raw.githubusercontent.com/jchalifour/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715150004710#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jchalifour/dh2025_workshop/main/inferno_files/Inferno_english.xml",
@@ -162,15 +162,13 @@
 			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jchalifour/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715145740846#Selector",
+			"@id": "https://raw.githubusercontent.com/jchalifour/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715150004710#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/lg[30]/l/persName/persName"
+			"rdf:value": "TEI/text/body/div/lg[30]/l/persName"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q6691",
-		"dc:format": "text/plain"
+		"@type": "cwrc:NaturalPerson"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
