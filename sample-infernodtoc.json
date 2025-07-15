@@ -20,6 +20,10 @@
                 "label": "Greeks"
             },
             {
+                "xpath": "//persName[@role=\"poet\"]",
+                "label": "Poets"
+            },
+            {
                 "xpath": "//persName[@subtype=\"roman\"]",
                 "label": "Romans"
             },
