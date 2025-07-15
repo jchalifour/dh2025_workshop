@@ -11,7 +11,8 @@
     "documentNotes": "",
     "documentLinks": "",
     "inputs": [
-        "https://raw.githubusercontent.com/LEAF-VRE/dh2025_workshop/refs/heads/main/DToC_files/demo/Inferno_english_entities.xml"
+        "https://raw.githubusercontent.com/LEAF-VRE/dh2025_workshop/refs/heads/main/DToC_files/demo/Inferno_english_entities.xml",
+        "https://raw.githubusercontent.com/jchalifour/dh2025_workshop/refs/heads/main/DToC_files/demo/demo_index.xml"
     ],
     "curation": {
         "markup": [
